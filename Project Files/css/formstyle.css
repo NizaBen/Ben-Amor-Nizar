@@ -1,0 +1,33 @@
+#formulaire
+{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top:200px;
+    margin-right:100px;
+    background-color: gray;
+   
+
+}
+h1
+{
+    font-family: 'Courgette', cursive;
+    font: bold;
+    text-align: center;
+    color: maroon;
+}
+#div_resume {
+    background-color:wheat;
+    border: 2px darkblue; 
+    padding: 5px;
+    background-clip: content-box;
+}
+#intro
+{
+    font-family: 'Courgette', cursive;
+    font-size: 24px;
+    
+}
+body
+{
+    background-color: silver;
+}
